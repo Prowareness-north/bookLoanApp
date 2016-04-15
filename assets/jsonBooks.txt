@@ -1,0 +1,98 @@
+[
+	{
+		"header":"0-9",
+		"children":
+		[
+		{
+			"bookId":"100",
+			"title":"5 Dysfunctions of a team",
+			"sortingtitle":"5 Dysfunctions of a team",
+			"subtitle":"A leadership fable",
+			"author":"Patrick Lencioni",
+			"owner":"Dave Woertman",
+			"barcodeEAN":"9780787960759",
+			"summary:String = "Engels | Hardcover | 2002",
+			"shortDescription:String = "In The Five Dysfunctions of a Team Patrick Lencioni once again offers a leadership fable that is as enthralling and instructive as his first two best-selling books, The Five Temptations of a CEO and The Four Obsessions of an Extraordinary Executive. This time, he turns his keen intellect and storytelling power to the fascinating, complex world of teams. Kathryn Petersen, Decision Tech's CEO, faces the ultimate leadership crisis: Uniting a team in such disarray that it threatens to bring down the entire company.",
+			"imageXS_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/mini/FC/3/9/2/9/1001004001579293.jpg",
+			"imageS_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/tout/FC/3/9/2/9/1001004001579293.jpg",
+			"imageM_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/thumb/FC/3/9/2/9/1001004001579293.jpg",
+			"imageL_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/3/9/2/9/1001004001579293.jpg",
+			"imageXL_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/9/2/9/1001004001579293.jpg",
+			"bol_URL":"https://m.bol.com/nl/p/the-five-dysfunctions-of-a-team/1001004001579293/",
+			"paper_version":true,
+		}
+		]
+	}
+	{
+		"header":"A",
+		"children":
+		[
+		{
+			"bookId":"100",
+			"title":"5 Dysfunctions of a team",
+			"sortingtitle":"5 Dysfunctions of a team",
+			"subtitle":"A leadership fable",
+			"author":"Patrick Lencioni",
+			"owner":"Dave Woertman",
+			"barcodeEAN":"9780787960759",
+			"summary:String = "Engels | Hardcover | 2002",
+			"shortDescription:String = "In The Five Dysfunctions of a Team Patrick Lencioni once again offers a leadership fable that is as enthralling and instructive as his first two best-selling books, The Five Temptations of a CEO and The Four Obsessions of an Extraordinary Executive. This time, he turns his keen intellect and storytelling power to the fascinating, complex world of teams. Kathryn Petersen, Decision Tech's CEO, faces the ultimate leadership crisis: Uniting a team in such disarray that it threatens to bring down the entire company.",
+			"imageXS_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/mini/FC/3/9/2/9/1001004001579293.jpg",
+			"imageS_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/tout/FC/3/9/2/9/1001004001579293.jpg",
+			"imageM_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/thumb/FC/3/9/2/9/1001004001579293.jpg",
+			"imageL_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/3/9/2/9/1001004001579293.jpg",
+			"imageXL_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/9/2/9/1001004001579293.jpg",
+			"bol_URL":"https://m.bol.com/nl/p/the-five-dysfunctions-of-a-team/1001004001579293/",
+			"paper_version":true,
+		}
+		]
+	}
+	{
+		"header":"B",
+		"children":
+		[
+		{
+			"bookId":"100",
+			"title":"5 Dysfunctions of a team",
+			"sortingtitle":"5 Dysfunctions of a team",
+			"subtitle":"A leadership fable",
+			"author":"Patrick Lencioni",
+			"owner":"Dave Woertman",
+			"barcodeEAN":"9780787960759",
+			"summary:String = "Engels | Hardcover | 2002",
+			"shortDescription:String = "In The Five Dysfunctions of a Team Patrick Lencioni once again offers a leadership fable that is as enthralling and instructive as his first two best-selling books, The Five Temptations of a CEO and The Four Obsessions of an Extraordinary Executive. This time, he turns his keen intellect and storytelling power to the fascinating, complex world of teams. Kathryn Petersen, Decision Tech's CEO, faces the ultimate leadership crisis: Uniting a team in such disarray that it threatens to bring down the entire company.",
+			"imageXS_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/mini/FC/3/9/2/9/1001004001579293.jpg",
+			"imageS_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/tout/FC/3/9/2/9/1001004001579293.jpg",
+			"imageM_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/thumb/FC/3/9/2/9/1001004001579293.jpg",
+			"imageL_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/3/9/2/9/1001004001579293.jpg",
+			"imageXL_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/9/2/9/1001004001579293.jpg",
+			"bol_URL":"https://m.bol.com/nl/p/the-five-dysfunctions-of-a-team/1001004001579293/",
+			"paper_version":true,
+		}
+		]
+	}
+	{
+		"header":"C",
+		"children":
+		[
+		{
+			"bookId":"100",
+			"title":"5 Dysfunctions of a team",
+			"sortingtitle":"5 Dysfunctions of a team",
+			"subtitle":"A leadership fable",
+			"author":"Patrick Lencioni",
+			"owner":"Dave Woertman",
+			"barcodeEAN":"9780787960759",
+			"summary:String = "Engels | Hardcover | 2002",
+			"shortDescription:String = "In The Five Dysfunctions of a Team Patrick Lencioni once again offers a leadership fable that is as enthralling and instructive as his first two best-selling books, The Five Temptations of a CEO and The Four Obsessions of an Extraordinary Executive. This time, he turns his keen intellect and storytelling power to the fascinating, complex world of teams. Kathryn Petersen, Decision Tech's CEO, faces the ultimate leadership crisis: Uniting a team in such disarray that it threatens to bring down the entire company.",
+			"imageXS_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/mini/FC/3/9/2/9/1001004001579293.jpg",
+			"imageS_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/tout/FC/3/9/2/9/1001004001579293.jpg",
+			"imageM_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/thumb/FC/3/9/2/9/1001004001579293.jpg",
+			"imageL_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/3/9/2/9/1001004001579293.jpg",
+			"imageXL_URL:String = "https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/9/2/9/1001004001579293.jpg",
+			"bol_URL":"https://m.bol.com/nl/p/the-five-dysfunctions-of-a-team/1001004001579293/",
+			"paper_version":true,
+		}
+		]
+	}
+]

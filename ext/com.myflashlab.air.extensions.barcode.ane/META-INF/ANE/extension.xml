@@ -1,0 +1,39 @@
+<extension xmlns="http://ns.adobe.com/air/extension/15.0">
+  <id>com.myflashlab.air.extensions.barcode</id>
+  <versionNumber>3.1.0</versionNumber>
+  <copyright>2016, MyFlashLabs Team. All rights reserved.</copyright>
+  <description>
+		<text xml:lang="en">Air Native Extension!</text> 
+  </description>
+  <platforms>
+  
+    <platform name="Android-ARM">
+		<applicationDeployment>
+			<nativeLibrary>classes.jar</nativeLibrary>
+			<initializer>com.doitflash.barcode.MyExtension</initializer>
+			<finalizer>com.doitflash.barcode.MyExtension</finalizer>
+		</applicationDeployment>
+    </platform>
+	
+	<platform name="Android-x86">
+		<applicationDeployment>
+			<nativeLibrary>classes.jar</nativeLibrary>
+			<initializer>com.doitflash.barcode.MyExtension</initializer>
+			<finalizer>com.doitflash.barcode.MyExtension</finalizer>
+		</applicationDeployment>
+    </platform>
+	
+	<platform name="iPhone-ARM">
+		<applicationDeployment>
+			<nativeLibrary>libexBarcode.a</nativeLibrary>
+			<initializer>comDoitflashBarcodeMyExtensionInitializer</initializer>
+			<finalizer>comDoitflashBarcodeMyExtensionFinalizer</finalizer>
+		</applicationDeployment>
+	</platform>
+	
+	<platform name="default"> 
+		<applicationDeployment/>
+	</platform> 
+	
+  </platforms>
+</extension>
